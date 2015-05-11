@@ -13,6 +13,8 @@ compromising information to them. Please respect the
 [[code of conduct|contribute/working_together/code_of_conduct/]] when
 interracting in Tails spaces.
 
+<a id="amnesia-news"></a>
+
 amnesia-news
 ------------
 
@@ -24,6 +26,8 @@ the releases and security announcements.
 	<input class="text" name="email" value=""/>
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
+
+<a id="tails-dev"></a>
 
 tails-dev
 ---------
@@ -37,6 +41,8 @@ if you want to [[contribute code|contribute/how/code]].
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
 
+<a id="tails-l10n"></a>
+
 tails-l10n
 ----------
 
@@ -48,6 +54,8 @@ You can subscribe or write to tails-l10n for matters related to
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
 
+<a id="tails-project"></a>
+
 tails-project
 -------------
 
@@ -58,6 +66,8 @@ events, the reports, and other non-technical matters.
 	<input class="text" name="email" value=""/>
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
+
+<a id="tails-support"></a>
 
 tails-support
 -------------
@@ -71,6 +81,8 @@ if you want to help by answering others :)
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
 
+<a id="tails-testers"></a>
+
 tails-testers
 -------------
 
@@ -81,6 +93,8 @@ You can subscribe to tails-testers if you want to contribute by
 	<input class="text" name="email" value=""/>
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
+
+<a id="tails-ux"></a>
 
 tails-ux
 --------
@@ -96,6 +110,8 @@ You can subscribe or write to tails-ux for matters related to
 Private email addresses
 =======================
 
+<a id="tails"></a>
+
 tails
 -----
 
@@ -104,12 +120,16 @@ vulnerabilities disclosures, you can write encrypted emails to
 <tails@boum.org>. See the
 [[OpenPGP key|doc/about/openpgp_keys#private]].
 
+<a id="tails-accounting"></a>
+
 tails-accounting
 -----------------
 
 If you want to fund Tails please write to
 <tails-accounting@boum.org>. See the
 [[OpenPGP key|doc/about/openpgp_keys#accounting]].
+
+<a id="tails-press"></a>
 
 tails-press
 -----------
@@ -119,12 +139,16 @@ send us links to [[press articles|press]] about Tails, please write to
 <tails-press@boum.org>. See the
 [[OpenPGP key|doc/about/openpgp_keys#press]].
 
+<a id="tails-support-private"></a>
+
 tails-support-private
 ---------------------
 
 You can write encrypted emails to <tails-support-private@boum.org> if
 you need help that requires you to send compromising information. See
 the [[OpenPGP key|doc/about/openpgp_keys#support]].
+
+<a id="tails-sysadmins"></a>
 
 tails-sysadmins
 ---------------
