@@ -13,18 +13,6 @@ compromising information to them. Please respect the
 [[code of conduct|contribute/working_together/code_of_conduct/]] when
 interracting in Tails spaces.
 
-tails-support
--------------
-
-[[tails-support|support/tails-support]] is the public mailing-list
-dedicated to Tails users support. Subscribe if you have questions or
-if you want to help by answering others :)
-
-<form method="POST" action="https://mailman.boum.org/subscribe/tails-support">
-	<input class="text" name="email" value=""/>
-	<input class="button" type="submit" value="Subscribe"/>
-</form>
-
 amnesia-news
 ------------
 
@@ -33,6 +21,29 @@ email. We don't write often, but it allows you to stay up-to-date with
 the releases and security announcements.
 
 <form method="POST" action="https://mailman.boum.org/subscribe/amnesia-news">
+	<input class="text" name="email" value=""/>
+	<input class="button" type="submit" value="Subscribe"/>
+</form>
+
+tails-dev
+---------
+
+tails-dev is public mailing-list where the developement work is
+coordinated and technical design questions discussed. Please subscribe
+if you want to [[contribute code|contribute/how/code]].
+
+<form method="POST" action="https://mailman.boum.org/subscribe/tails-dev">
+	<input class="text" name="email" value=""/>
+	<input class="button" type="submit" value="Subscribe"/>
+</form>
+
+tails-l10n
+----------
+
+You can subscribe or write to tails-l10n for matters related to
+[[translation|contribute/how/translate]].
+
+<form method="POST" action="https://mailman.boum.org/subscribe/tails-l10n">
 	<input class="text" name="email" value=""/>
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
@@ -48,14 +59,14 @@ events, the reports, and other non-technical matters.
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
 
-tails-dev
----------
+tails-support
+-------------
 
-tails-dev is public mailing-list where the developement work is
-coordinated and technical design questions discussed. Please subscribe
-if you want to [[contribute code|contribute/how/code]].
+[[tails-support|support/tails-support]] is the public mailing-list
+dedicated to Tails users support. Subscribe if you have questions or
+if you want to help by answering others :)
 
-<form method="POST" action="https://mailman.boum.org/subscribe/tails-dev">
+<form method="POST" action="https://mailman.boum.org/subscribe/tails-support">
 	<input class="text" name="email" value=""/>
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
@@ -82,26 +93,23 @@ You can subscribe or write to tails-ux for matters related to
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
 
-tails-l10n
-----------
-
-You can subscribe or write to tails-l10n for matters related to
-[[translation|contribute/how/translate]].
-
-<form method="POST" action="https://mailman.boum.org/subscribe/tails-l10n">
-	<input class="text" name="email" value=""/>
-	<input class="button" type="submit" value="Subscribe"/>
-</form>
-
 Private email addresses
 =======================
 
-tails-support-private
----------------------
+tails
+-----
 
-You can write encrypted emails to <tails-support-private@boum.org> if
-you need help that requires you to send compromising information. See
-the [[OpenPGP key|doc/about/openpgp_keys#support]].
+For matters that are listed in none of the above and for
+vulnerabilities disclosures, you can write encrypted emails to
+<tails@boum.org>. See the
+[[OpenPGP key|doc/about/openpgp_keys#private]].
+
+tails-accounting
+-----------------
+
+If you want to fund Tails please write to
+<tails-accounting@boum.org>. See the
+[[OpenPGP key|doc/about/openpgp_keys#accounting]].
 
 tails-press
 -----------
@@ -111,12 +119,12 @@ send us links to [[press articles|press]] about Tails, please write to
 <tails-press@boum.org>. See the
 [[OpenPGP key|doc/about/openpgp_keys#press]].
 
-tails-accounting
------------------
+tails-support-private
+---------------------
 
-If you want to fund Tails please write to
-<tails-accounting@boum.org>. See the
-[[OpenPGP key|doc/about/openpgp_keys#accounting]].
+You can write encrypted emails to <tails-support-private@boum.org> if
+you need help that requires you to send compromising information. See
+the [[OpenPGP key|doc/about/openpgp_keys#support]].
 
 tails-sysadmins
 ---------------
@@ -124,14 +132,6 @@ tails-sysadmins
 To talk about our infrastructure (servers, test suite, repositories,
 mirrors...) please write to <tails-sysadmins@boum.org>. See the
 [[OpenPGP key|doc/about/openpgp_keys#sysadmins]].
-
-tails
------
-
-For matters that are listed in none of the above and for
-vulnerabilities disclosures, you can write encrypted emails to
-<tails@boum.org>. See the
-[[OpenPGP key|doc/about/openpgp_keys#private]].
 
 IRC channels
 ============
