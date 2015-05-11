@@ -5,8 +5,8 @@ to talk about.
 
 [[!toc levels=2]]
 
-Subscribe to mailing-lists
-==========================
+Public mailing lists
+====================
 
 Those lists are public, subscription is open to anyone. Don't send
 compromising information to them. Please respect the
@@ -93,8 +93,8 @@ You can subscribe or write to tails-l10n for matters related to
 	<input class="button" type="submit" value="Subscribe"/>
 </form>
 
-Contact
-=======
+Private email addresses
+=======================
 
 tails-support-private
 ---------------------
@@ -133,8 +133,8 @@ vulnerabilities disclosures, you can write encrypted emails to
 <tails@boum.org>. See the
 [[OpenPGP key|doc/about/openpgp_keys#private]].
 
-IRC
-===
+IRC channels
+============
 
 You can join our [[#tails|support/chat]] and
 [[#tails-dev|contribute/chat]] chatrooms; Note: only a few Tails core
