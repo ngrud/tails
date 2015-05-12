@@ -8,18 +8,18 @@ to talk about.
 Public mailing lists
 ====================
 
-Those lists are public, subscription is open to anyone. Don't send
-compromising information to them. Please respect the
-[[code of conduct|contribute/working_together/code_of_conduct/]] when
-interracting in Tails spaces.
+These mailing lists are public and subscription is open to anyone, so avoid
+sending sensitive information.
+
+Please respect the [[code of conduct|contribute/working_together/code_of_conduct/]] in all Tails spaces.
 
 <a id="amnesia-news"></a>
 
 amnesia-news
 ------------
 
-You can subscribe to amnesia-news to receive some [[news]] by
-email. We don't write often, but it allows you to stay up-to-date with
+amnesia-news is the list where we send our [[news]] by
+email. It has a low traffic and is the right place to stay up-to-date with
 the releases and security announcements.
 
 <form method="POST" action="https://mailman.boum.org/subscribe/amnesia-news">
@@ -32,8 +32,8 @@ the releases and security announcements.
 tails-dev
 ---------
 
-tails-dev is public mailing list where the developement work is
-coordinated and technical design questions discussed. Please subscribe
+tails-dev is the list where the development work is
+coordinated and technical design questions are discussed. Please subscribe
 if you want to [[contribute code|contribute/how/code]].
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-dev">
@@ -46,8 +46,7 @@ if you want to [[contribute code|contribute/how/code]].
 tails-l10n
 ----------
 
-You can subscribe or write to tails-l10n for matters related to
-[[translation|contribute/how/translate]].
+tails-l10n is the list for matters related to [[translations|contribute/how/translate]].
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-l10n">
 	<input class="text" name="email" value=""/>
@@ -59,8 +58,8 @@ You can subscribe or write to tails-l10n for matters related to
 tails-project
 -------------
 
-tails-project is the public mailing list where we discuss the upcoming
-events, the reports, and other non-technical matters.
+tails-project is the list where we discuss upcoming
+events, monthly reports, and other non-technical matters.
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-project">
 	<input class="text" name="email" value=""/>
@@ -72,9 +71,9 @@ events, the reports, and other non-technical matters.
 tails-support
 -------------
 
-[[tails-support|support/tails-support]] is the public mailing list
+[[tails-support|support/tails-support]] is the list
 dedicated to Tails users support. Subscribe if you have questions or
-if you want to help by answering others :)
+if you want to help answering questions from others.
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-support">
 	<input class="text" name="email" value=""/>
@@ -86,8 +85,8 @@ if you want to help by answering others :)
 tails-testers
 -------------
 
-You can subscribe to tails-testers if you want to contribute by
-[[testing Tails|contribute/how/testing]].
+tails-testers is the list for people who want to help
+[[testing|contribute/how/testing]] new releases or features.
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-testers">
 	<input class="text" name="email" value=""/>
@@ -99,7 +98,7 @@ You can subscribe to tails-testers if you want to contribute by
 tails-ux
 --------
 
-You can subscribe or write to tails-ux for matters related to
+tails-ux is the list for matters related to
 [[user experience and user interface|contribute/how/user_interface]].
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-ux">
