@@ -33,7 +33,7 @@ tails-dev
 ---------
 
 tails-dev@boum.org is the list where the development work is
-coordinated and technical design questions are discussed. Please subscribe
+coordinated and technical design questions are discussed. Subscribe
 if you want to [[contribute code|contribute/how/code]].
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-dev">
@@ -124,7 +124,7 @@ vulnerabilities disclosures, you can write encrypted emails to
 tails-accounting
 -----------------
 
-If you want to fund Tails please write to
+If you want to fund Tails, write to
 <tails-accounting@boum.org>. See the
 [[OpenPGP key|doc/about/openpgp_keys#accounting]].
 
@@ -134,7 +134,7 @@ tails-press
 -----------
 
 If you're a journalist wanting to write about Tails, or if you want to
-send us links to [[press articles|press]] about Tails, please write to
+send us links to [[press articles|press]] about Tails, write to
 <tails-press@boum.org>. See the
 [[OpenPGP key|doc/about/openpgp_keys#press]].
 
@@ -153,7 +153,7 @@ tails-sysadmins
 ---------------
 
 To talk about our infrastructure (servers, test suite, repositories,
-mirrors...) please write to <tails-sysadmins@boum.org>. See the
+mirrors...), write to <tails-sysadmins@boum.org>. See the
 [[OpenPGP key|doc/about/openpgp_keys#sysadmins]].
 
 IRC channels
