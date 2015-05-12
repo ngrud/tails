@@ -18,7 +18,7 @@ Please respect the [[code of conduct|contribute/working_together/code_of_conduct
 amnesia-news
 ------------
 
-amnesia-news is the list where we send our [[news]] by
+amnesia-news@boum.org is the list where we send our [[news]] by
 email. It has a low traffic and is the right place to stay up-to-date with
 the releases and security announcements.
 
@@ -32,7 +32,7 @@ the releases and security announcements.
 tails-dev
 ---------
 
-tails-dev is the list where the development work is
+tails-dev@boum.org is the list where the development work is
 coordinated and technical design questions are discussed. Please subscribe
 if you want to [[contribute code|contribute/how/code]].
 
@@ -46,7 +46,7 @@ if you want to [[contribute code|contribute/how/code]].
 tails-l10n
 ----------
 
-tails-l10n is the list for matters related to [[translations|contribute/how/translate]].
+tails-l10n@boum.org is the list for matters related to [[translations|contribute/how/translate]].
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-l10n">
 	<input class="text" name="email" value=""/>
@@ -58,7 +58,7 @@ tails-l10n is the list for matters related to [[translations|contribute/how/tran
 tails-project
 -------------
 
-tails-project is the list where we discuss upcoming
+tails-project@boum.org is the list where we discuss upcoming
 events, monthly reports, and other non-technical matters.
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-project">
@@ -71,7 +71,7 @@ events, monthly reports, and other non-technical matters.
 tails-support
 -------------
 
-[[tails-support|support/tails-support]] is the list
+[[tails-support@boum.org|support/tails-support]] is the list
 dedicated to Tails users support. Subscribe if you have questions or
 if you want to help answering questions from others.
 
@@ -85,7 +85,7 @@ if you want to help answering questions from others.
 tails-testers
 -------------
 
-tails-testers is the list for people who want to help
+tails-testers@boum.org is the list for people who want to help
 [[testing|contribute/how/testing]] new releases or features.
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-testers">
@@ -98,7 +98,7 @@ tails-testers is the list for people who want to help
 tails-ux
 --------
 
-tails-ux is the list for matters related to
+tails-ux@boum.org is the list for matters related to
 [[user experience and user interface|contribute/how/user_interface]].
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-ux">
