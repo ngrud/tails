@@ -28,7 +28,7 @@ msgstr ""
 
 #. type: Plain text
 msgid ""
-"October 2012 has seen the highest activity on Tails development mailing-list "
+"October 2012 has seen the highest activity on Tails development mailing list "
 "since it is publicly archived (September 2010). This reflects how much work "
 "is done to slowly make Tails better and better. More details follow."
 msgstr ""

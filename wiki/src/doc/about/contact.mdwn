@@ -32,7 +32,7 @@ the releases and security announcements.
 tails-dev
 ---------
 
-tails-dev is public mailing-list where the developement work is
+tails-dev is public mailing list where the developement work is
 coordinated and technical design questions discussed. Please subscribe
 if you want to [[contribute code|contribute/how/code]].
 
@@ -59,7 +59,7 @@ You can subscribe or write to tails-l10n for matters related to
 tails-project
 -------------
 
-tails-project is the public mailing-list where we discuss the upcoming
+tails-project is the public mailing list where we discuss the upcoming
 events, the reports, and other non-technical matters.
 
 <form method="POST" action="https://mailman.boum.org/subscribe/tails-project">
@@ -72,7 +72,7 @@ events, the reports, and other non-technical matters.
 tails-support
 -------------
 
-[[tails-support|support/tails-support]] is the public mailing-list
+[[tails-support|support/tails-support]] is the public mailing list
 dedicated to Tails users support. Subscribe if you have questions or
 if you want to help by answering others :)
 

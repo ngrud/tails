@@ -277,7 +277,7 @@ msgid ""
 msgstr ""
 
 #. type: Bullet: '- '
-msgid "A mailing-list for early testers was created and is being set up."
+msgid "A mailing list for early testers was created and is being set up."
 msgstr ""
 
 #. type: Title =

@@ -418,7 +418,7 @@ msgstr ""
 
 #~ msgid ""
 #~ "New versions are announced on our <a href='https://mailman.boum.org/"
-#~ "listinfo/amnesia-news'>news mailing-list</a>. Drop your email address "
+#~ "listinfo/amnesia-news'>news mailing list</a>. Drop your email address "
 #~ "into this box, then hit the button to subscribe:"
 #~ msgstr ""
 #~ "Neue Versionen werden auf unserer <a href='https://mailman.boum.org/"

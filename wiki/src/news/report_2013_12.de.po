@@ -242,7 +242,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 msgid ""
-"The tails-support mailing-list is now mentioned on [[Help other Tails "
+"The tails-support mailing list is now mentioned on [[Help other Tails "
 "users|contribute/how/help]]."
 msgstr ""
 

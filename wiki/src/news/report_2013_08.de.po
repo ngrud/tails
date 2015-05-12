@@ -128,7 +128,7 @@ msgstr ""
 msgid ""
 "Starting with Tails 0.20.1, bug reports sent with WhisperBack will [[!"
 "tails_gitweb_branch feature/tails-bugs desc=\"be sent to a dedicated "
-"(encrypted) mailing-list\"]]."
+"(encrypted) mailing list\"]]."
 msgstr ""
 
 #. type: Bullet: '- '
@@ -203,7 +203,7 @@ msgid ""
 msgstr ""
 
 #. type: Plain text
-msgid "- The shiny new tails-support mailing-list [[was documented|support]]."
+msgid "- The shiny new tails-support mailing list [[was documented|support]]."
 msgstr ""
 
 #. type: Bullet: '- '

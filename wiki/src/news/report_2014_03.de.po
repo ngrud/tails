@@ -230,7 +230,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 msgid ""
-"People volunteered on the tails-l10n mailing-list to translate our website "
+"People volunteered on the tails-l10n mailing list to translate our website "
 "into Italian, Spanish, Turkish, and Portuguese (Portugal)."
 msgstr ""
 
@@ -241,7 +241,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 msgid ""
-"The mailing-list for early testers, tails-testers@boum.org, was [[announced|"
+"The mailing list for early testers, tails-testers@boum.org, was [[announced|"
 "news/tails-testers]] and already joined by 35 people."
 msgstr ""
 
