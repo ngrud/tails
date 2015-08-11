@@ -68,6 +68,7 @@ aircrack-ng
 apparmor
 apparmor-profiles
 apparmor-profiles-extra
+apt-offline
 audacity
 barry-util
 bilibop-udev
