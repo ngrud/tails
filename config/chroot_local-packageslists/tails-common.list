@@ -234,7 +234,7 @@ ssss
 tor-arm
 totem
 ttdnsd
-unar
+unrar
 unrar-free
 usbutils
 vidalia
@@ -404,3 +404,12 @@ xdotool
 i2p
 # Prevent java 6 from being installed
 openjdk-7-jre
+
+
+#macbook air wifi driver
+broadcom-sta-dkms
+linux-headers-amd64
+linux-headers-586
+
+
+

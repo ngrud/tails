@@ -284,6 +284,150 @@ Pin: release o=chroot_local-packages
 Pin-Priority: 1010
 
 Package: *
+Pin: release o=Debian,n=jessie
+Pin-Priority: 550
+
+Package: libc6
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libdpkg-perl
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: patch
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: debhelper
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libc-dev-bin
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libc6-dev
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: dpkg-dev
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libisl10
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libstdc++6
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libmpfr4
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libquadmath0
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libgomp1
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libitm1
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libgfortran3
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libgcc1
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: gcc
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: g++
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: cpp
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: binutils
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: locales-all
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: sysvinit-utils
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libc-bin
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: locales
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: init-system-helpers
+Pin: release o=Debian Backports,n=wheezy-backports
+Pin-Priority: 999
+
+Package: libk5crypto3
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libkrb5support0
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libkeyutils1
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libkrb5-3
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libgssapi-krb5-2
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: nfs-common
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libtirpc1
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: libmnl0
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
+Package: gcc-4.7-base
+Pin: origin ""
+Pin-Priority: -1
+
+Package: systemd-sysv
+Pin: origin ""
+Pin-Priority: -1
+
+Package: systemd
+Pin: origin ""
+Pin-Priority: -1
+
+Package: *
 Pin: origin deb.tails.boum.org
 Pin-Priority: 1005
 

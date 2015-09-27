@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -e
+#set -e
 
 # Do not use virtual machine proxy before apt-cacher-ng is installed
 if [ "$http_proxy" = "http://$(hostname -f):3142" ] &&
