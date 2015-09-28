@@ -131,7 +131,7 @@ fi
 ./build-wiki
 
 # refresh translations of our programs
-./refresh-translations || fatal "refresh-translations failed ($?)."
+./refresh-translations #|| fatal "refresh-translations failed ($?)."
 
 case "$LB_BINARY_IMAGES" in
    iso)
