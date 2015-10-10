@@ -206,6 +206,10 @@ Package: linux-image-3.16.0-4-amd64
 Pin: release o=Debian,n=jessie
 Pin-Priority: 999
 
+Package: broadcom-sta-dkms
+Pin: release o=Debian,n=jessie
+Pin-Priority: 999
+
 Package: linux-kbuild-3.16
 Pin: release o=Debian,n=jessie
 Pin-Priority: 999
