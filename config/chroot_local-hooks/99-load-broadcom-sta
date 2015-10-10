@@ -1,0 +1,9 @@
+#!/bin/sh
+
+set -e
+
+echo "Adding broadcom-sta to /etc/modules"
+
+for wl ; do
+   echo "${module}" >> /etc/modules
+done
